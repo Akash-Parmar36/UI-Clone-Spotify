@@ -1,0 +1,26 @@
+/* body{
+    background-color: black;
+    color: white;
+} */
+
+/* img{
+   background-color: black;
+    
+} */
+
+
+i{
+    color: red;
+    /* background-color: black; */
+}
+
+
+button{
+     appearance: none;
+     border-radius: 20px 
+     
+}
+
+button:hover{
+   
+}
